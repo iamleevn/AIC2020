@@ -1,1 +1,1 @@
-# Hochiminh City AI Challenge 2020
+# HoChiMinh City AI Challenge 2020
